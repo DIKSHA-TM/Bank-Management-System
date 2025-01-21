@@ -527,7 +527,7 @@ void menu(void)
 }
 int main()
 {
-    char pass[10],password[10]="lets";
+    char pass[10],password[10]="codewithc";
     int i=0;
     printf("\n\n\t\tEnter the password to login:");
     scanf("%s",pass);
